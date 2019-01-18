@@ -1,3 +1,4 @@
+package junit;
 import java.util.Scanner;
 
 class CheckEvenOdd
