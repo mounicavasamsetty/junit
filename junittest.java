@@ -1,5 +1,5 @@
 import static or.junit.Assert.*;
-public class CheckEvenOdd
+public class CheckTest
 {
   @test
   public void test()
